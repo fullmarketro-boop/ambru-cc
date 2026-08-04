@@ -1,0 +1,7 @@
+# ambru.cc — Security policy
+# https://securitytxt.org/
+
+Contact: mailto:cosmin@ambru.cc
+Expires: 2027-12-31T23:59:59+02:00
+Preferred-Languages: en, ro
+Canonical: https://ambru.cc/.well-known/security.txt

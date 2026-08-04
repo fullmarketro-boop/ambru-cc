@@ -1,0 +1,15 @@
+/* TEAM */
+    Designer & builder: Ambru Cosmin Claudiu
+    Location: Bucharest, Romania (GMT+2)
+    Contact: cosminambru [at] gmail.com
+    Site: https://ambru.cc
+
+/* THANKS */
+    Fraunces — Undercase Type
+    Inter Tight — Rasmus Andersson
+    JetBrains Mono — JetBrains
+
+/* SITE */
+    Built by hand, in one HTML file, one CSS block, one script tag.
+    No framework, no build step, no analytics scraping you as you read.
+    Last updated: 2026-07-19

@@ -1,0 +1,24 @@
+# ambru.cc — robots
+# Everything indexable; no dark corners on this site.
+
+User-agent: *
+Allow: /
+
+# GPT bots — allowed; the writing on this site is the writing on this site.
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# Common misbehaving scrapers — politely blocked.
+User-agent: AhrefsBot
+Crawl-delay: 30
+
+User-agent: SemrushBot
+Crawl-delay: 30
+
+Sitemap: https://ambru.cc/sitemap.xml

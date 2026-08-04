@@ -1,0 +1,27 @@
+{
+  "name": "Ambru Cosmin Claudiu — Web design & AI automation",
+  "short_name": "ambru.cc",
+  "description": "I design websites and build the automations behind them.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#08080B",
+  "background_color": "#08080B",
+  "lang": "en",
+  "categories": ["business", "productivity", "design"],
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
