@@ -3197,6 +3197,15 @@
       margin: 0
     }
 
+    .foot a {
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .foot a:hover {
+      color: var(--text)
+    }
+
     .foot-cc {
       color: var(--violet)
     }
